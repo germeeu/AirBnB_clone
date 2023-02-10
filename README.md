@@ -1,4 +1,4 @@
-# AirBnB Clone ― The ALX-Holberton BnB
+ AirBnB Clone ― The ALX-Africa BnB
 ![Optional Text](hbnb.png)
 ## Description of the project
 The ALX-Holberton B&B sums up the implementation of my four months of studies at the ALX-Holberton School - the fullstack software engineering program.
