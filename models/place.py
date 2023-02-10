@@ -7,7 +7,6 @@ from models.base_model import BaseModel
 
 class Place(BaseModel):
     """Inherits from BaseModel class
-
      Attributes:
         city_id (str): City id
         user_id (str): User id
@@ -20,7 +19,6 @@ class Place(BaseModel):
         latitude (float): latitude of the place
         longitude (float): longitude of the place
         amenity_ids (list): list of Amenity ids
-
     """
     city_id = ""
     user_id = ""
